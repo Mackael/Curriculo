@@ -1,0 +1,39 @@
+h1 {
+  border: 1.6px solid black;
+  font-size: 38px;
+  font-family: sans-serif;
+  font-weight: bold;
+  background: rgb(48, 55, 160);
+  color: white;
+}
+
+h2 {
+  font-size: 28px;
+  background: #33bb26;
+  color: black;
+  display: block;
+}
+
+p {
+  color: #bb0707;
+}
+
+h4 {
+  color: rgb(16, 9, 112);
+}
+
+body {
+  text-align: left;
+}
+
+a {
+  text-decoration: underline;
+  cursor: auto;
+}
+
+.conjunto {
+  width: 1080px;
+  margin: 15px auto;
+  border: 1.2px solid #00255d;
+  padding: 2px;
+}
